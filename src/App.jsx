@@ -6,9 +6,12 @@ function App() {
 
   return (
     <>
+    
      <AppHeader></AppHeader>
      <AppMain></AppMain>
      <AppFooter></AppFooter>
+
+    
     </>
   )
 }

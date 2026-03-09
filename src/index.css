@@ -1,1 +1,24 @@
-@import url('bootstrap')
+@import url('bootstrap');
+
+body {
+  font-family: 'Open Sans Variable', sans-serif;
+}
+
+
+.first-section {
+    min-height: 200px;
+    background-color: rgb(0, 0, 0);
+}
+.nav-section{
+    background-color: rgb(0, 94, 255);
+    min-height: 200px;
+
+}
+footer {
+    background-color: black;
+    min-height: 400px;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}

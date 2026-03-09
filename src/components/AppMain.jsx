@@ -3,7 +3,8 @@ export default function AppMain(){
 
   return (
     <main> 
-        main
+        <div className='first-section'></div>
+        <div className='nav-section'></div>
     </main>
   )
 }
