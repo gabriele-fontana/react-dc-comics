@@ -12,7 +12,28 @@ body {
    
 footer {
     background-color: black;
-    min-height: 400px;
+    min-height: 100px;
+}
+.link-section{
+    background-image:url(./assets/img/footer-bg.jpg);
+    padding: 2rem;
+    color: white;
+    position: relative;
+    max-height: 450px;
+    overflow: hidden;
+    ul{
+        list-style: none;
+    }
+    .link-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+#logo-bg{
+    position:absolute;
+    max-width: 600px;
+    right: 100px;
+    top: -50px;
 }
 #navbar{
     display: flex;
