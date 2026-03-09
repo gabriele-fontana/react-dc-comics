@@ -3,6 +3,7 @@ export default function AppHeader(){
 
   return (
     <header> 
+          <div className="container">
           <nav className="navbar navbar-expand-lg navbar-light bg-white">
               <div className="container-fluid" id=''>
                   <a className="navbar-brand" href="#">
@@ -28,6 +29,7 @@ export default function AppHeader(){
                   </div>
               </div>
           </nav>
+          </div>
     </header>
   )
 }

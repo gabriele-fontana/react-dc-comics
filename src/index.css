@@ -31,9 +31,9 @@ footer {
 }
 #logo-bg{
     position:absolute;
-    max-width: 600px;
-    right: 100px;
-    top: -50px;
+    max-width: 500px;
+    right:0;    
+    top: -70px;
 }
 #navbar{
     display: flex;
@@ -57,4 +57,10 @@ footer {
         max-width: 300px;
     }
 
+}
+#socials-section {
+    min-height: 150px;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
 }
