@@ -23,8 +23,7 @@ export default function AppHeader(){
                           <a className="nav-link text-uppercase" aria-current="page" href="#">videos</a>
                           <a className="nav-link text-uppercase" aria-current="page" href="#">fans</a>
                           <a className="nav-link text-uppercase" aria-current="page" href="#">news</a>
-                          <a className="nav-link text-uppercase" aria-current="page" href="#">shop</a>
-                          
+                          <a className="nav-link text-uppercase" aria-current="page" href="#">shop</a>                          
                       </div>
                   </div>
               </div>
